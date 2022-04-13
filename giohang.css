@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+.menugiohang {
+	display: flex;
+	list-style-type: none;
+	font-weight: bold;
+	
+}
+.menugiohang li {
+	margin: 20px 50px;
+	font-size: 16px;
+}
+.menugiohang hr {
+	margin-right: 20px;
+}
+.menugiohang li:hover {
+	color: #2ADE58;
+}
+.menugiohang li font {
+	margin-right: 100px;
+}
+.ndgiohang {
+	display: flex;
+	list-style-type: none;
+}
+.ndgiohang img {
+	margin: 0px 22px 0px 50px;
+}
+.ndgiohang li {
+	margin: 20px 5px;
+}
+.ndgiohang li span{
+	color: #FF8400;
+}
+.ndgiohang li p span{
+	color: #FF8400;
+}
+.ndgiohang li p {
+	margin: 0px 70px;
+}
+.ndgiohang font {
+	margin: 20px 95px;
+	
+}
+.ndgiohang font a{
+	border: 1px solid #515151;
+	border-radius: 2px;
+	background-color: #D6D4D4;
+	width: 10px;
+}
+.button1 {
+	margin-top: 15px;
+	margin-left: 750px;
+	font-size: 15px;
+	width: 300px;
+	height: 40px;
+	border-radius: 5px;
+	border:none;
+	background-color: #3ED879;
+	margin-bottom: 20px;
+}
+.button1 a{
+	color: white;
+	text-decoration: none;
+}
+.button1:hover{
+	background-color: #37B756;
+}

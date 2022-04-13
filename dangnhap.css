@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: sans-serif;
+	background-image:url("img/nhap.jpg");
+}
+.login{
+	width: 400px;
+	height: 350px;
+	text-align: center;
+	border:1px solid black;
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 100px;
+	background-color:  #E0F2F9;
+}
+h2{
+	display: inline-block;
+	color: #18B891;
+}
+p{
+	margin: 10px 0px;
+	padding-left: 40px;
+	float: left;
+}
+.login input{
+	width: 300px;
+	height: 40px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	padding-left: 20px;
+	display: inline-block;
+
+}
+.input mk{
+	margin-top: 50px;
+}
+button{
+	margin-top: 15px;
+	font-size: 15px;
+	width: 300px;
+	height: 40px;
+	border-radius: 5px;
+	border:none;
+	background-color: #187DDB;
+	margin-bottom: 20px;
+}
+button a{
+	color: white;
+	text-decoration: none;
+}
+button:hover{
+	background-color: #0B3D9A;
+}

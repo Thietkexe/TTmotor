@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.note {
+	font-size: 17px;
+	list-style-type: none;
+	margin: 30px;
+}
+.image {
+	margin-left: 90px;
+}
+.note li{
+	margin-bottom: 15px;
+}
+.note li font{
+	color: #16FB3E;
+}
+.note li font:hover {
+	color: #358D2A;
+}

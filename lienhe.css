@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+.noidung {
+	font-size: 15px;
+	list-style-type: none;
+	margin: 30px;
+	
+}
+.noidung li{
+	margin-bottom: 20px;
+}
+.noidung li h3 {
+	color: #0E92F1;
+}
+.noidung li h3:hover {
+	color:#20E062;
+}
+.noidung li font {
+	color: red;
+	font-weight: bold;
+}
+.nd {
+	font-size: 15px;
+	list-style-type: none;
+	margin: 30px;	
+}
+.nd li{
+	margin-top: 30px;
+}
+.nd li i {
+	margin: 20px;
+}
+.nd li font {
+	color:#21CC38;
+}
+.body{
+	display: flex;
+}
+.img img {
+	margin-top: 30px;
+}
